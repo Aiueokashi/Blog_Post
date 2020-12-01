@@ -1,3 +1,7 @@
+---
+title: "MyProfile"
+date: 2020-12-01
+---
 # githubのステータス
 <br><br>
 ## 使用してる言語
