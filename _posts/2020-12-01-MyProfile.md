@@ -22,4 +22,4 @@ date: 2020-12-01
 - [ ] [gitstats](https://github.com/Aiueokashi/githubStats)<br>
 =====サイト--------><br>
 - [x] [あいうえお菓子の日記](https://aiueokashi.github.io/Blog_Post/)(一日一更新心がける)<br>
-  ↑([リポジトリ](https://github.com/Aiueokashi/Blog_Post))
+  ↑日記の[リポジトリ](https://github.com/Aiueokashi/Blog_Post)
