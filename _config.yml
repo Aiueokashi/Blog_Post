@@ -10,4 +10,4 @@ twitter_username: discord_PSekai # DO NOT include the @ character, or else the b
 github_username:  Aiueokashi # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: jekyll-theme-hacker
+theme: jekyll-theme-leap-day
