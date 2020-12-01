@@ -1,4 +1,4 @@
-## Nice to meet you and I’m glad that you have visited this page 😊
+welcome
 
 # 最近思ったこと
 TS勉強しなきゃなぁ.....
