@@ -21,4 +21,5 @@ date: 2020-12-01
 =====SelfHosting--><br>
 - [ ] [gitstats](https://github.com/Aiueokashi/githubStats)<br>
 =====サイト--------><br>
-- [x] [あいうえお菓子の日記](https://aiueokashi.github.io/Blog_Post/)|([リポジトリ](https://github.com/Aiueokashi/Blog_Post))(一日一更新心がける)
+- [x] [あいうえお菓子の日記](https://aiueokashi.github.io/Blog_Post/)(一日一更新心がける)<br>
+  ↑([リポジトリ](https://github.com/Aiueokashi/Blog_Post))
